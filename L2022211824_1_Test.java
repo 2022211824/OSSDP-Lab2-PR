@@ -52,4 +52,5 @@ public class L2022211824_1_Test {
         assertEquals("0.(142857)", solution.fractionToDecimal(1, 7));
         assertEquals("30.(769230)", solution.fractionToDecimal(400, 13));
     }
+    // 此处注释为赵烨为做PR所做的注释修改
 }
